@@ -1,0 +1,14 @@
+C:\Users\tayip\source\repos\Abc\Abc.Nortwind.DataAccess\bin\Debug\netcoreapp3.1\Abc.Nortwind.DataAccess.deps.json
+C:\Users\tayip\source\repos\Abc\Abc.Nortwind.DataAccess\bin\Debug\netcoreapp3.1\Abc.Nortwind.DataAccess.dll
+C:\Users\tayip\source\repos\Abc\Abc.Nortwind.DataAccess\bin\Debug\netcoreapp3.1\Abc.Nortwind.DataAccess.pdb
+C:\Users\tayip\source\repos\Abc\Abc.Nortwind.DataAccess\bin\Debug\netcoreapp3.1\Abc.Core.dll
+C:\Users\tayip\source\repos\Abc\Abc.Nortwind.DataAccess\bin\Debug\netcoreapp3.1\Abc.Nortwind.Entities.dll
+C:\Users\tayip\source\repos\Abc\Abc.Nortwind.DataAccess\bin\Debug\netcoreapp3.1\Abc.Core.pdb
+C:\Users\tayip\source\repos\Abc\Abc.Nortwind.DataAccess\bin\Debug\netcoreapp3.1\Abc.Nortwind.Entities.pdb
+C:\Users\tayip\source\repos\Abc\Abc.Nortwind.DataAccess\obj\Debug\netcoreapp3.1\Abc.Nortwind.DataAccess.csprojAssemblyReference.cache
+C:\Users\tayip\source\repos\Abc\Abc.Nortwind.DataAccess\obj\Debug\netcoreapp3.1\Abc.Nortwind.DataAccess.AssemblyInfoInputs.cache
+C:\Users\tayip\source\repos\Abc\Abc.Nortwind.DataAccess\obj\Debug\netcoreapp3.1\Abc.Nortwind.DataAccess.AssemblyInfo.cs
+C:\Users\tayip\source\repos\Abc\Abc.Nortwind.DataAccess\obj\Debug\netcoreapp3.1\Abc.Nortwind.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\tayip\source\repos\Abc\Abc.Nortwind.DataAccess\obj\Debug\netcoreapp3.1\Abc.Nortwind.DataAccess.csproj.CopyComplete
+C:\Users\tayip\source\repos\Abc\Abc.Nortwind.DataAccess\obj\Debug\netcoreapp3.1\Abc.Nortwind.DataAccess.dll
+C:\Users\tayip\source\repos\Abc\Abc.Nortwind.DataAccess\obj\Debug\netcoreapp3.1\Abc.Nortwind.DataAccess.pdb

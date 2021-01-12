@@ -1,0 +1,12 @@
+C:\Users\tayip\source\repos\Abc\Abc.Nortwind.Entities\bin\Debug\netcoreapp3.1\Abc.Nortwind.Entities.deps.json
+C:\Users\tayip\source\repos\Abc\Abc.Nortwind.Entities\bin\Debug\netcoreapp3.1\Abc.Nortwind.Entities.dll
+C:\Users\tayip\source\repos\Abc\Abc.Nortwind.Entities\bin\Debug\netcoreapp3.1\Abc.Nortwind.Entities.pdb
+C:\Users\tayip\source\repos\Abc\Abc.Nortwind.Entities\bin\Debug\netcoreapp3.1\Abc.Core.dll
+C:\Users\tayip\source\repos\Abc\Abc.Nortwind.Entities\bin\Debug\netcoreapp3.1\Abc.Core.pdb
+C:\Users\tayip\source\repos\Abc\Abc.Nortwind.Entities\obj\Debug\netcoreapp3.1\Abc.Nortwind.Entities.csprojAssemblyReference.cache
+C:\Users\tayip\source\repos\Abc\Abc.Nortwind.Entities\obj\Debug\netcoreapp3.1\Abc.Nortwind.Entities.AssemblyInfoInputs.cache
+C:\Users\tayip\source\repos\Abc\Abc.Nortwind.Entities\obj\Debug\netcoreapp3.1\Abc.Nortwind.Entities.AssemblyInfo.cs
+C:\Users\tayip\source\repos\Abc\Abc.Nortwind.Entities\obj\Debug\netcoreapp3.1\Abc.Nortwind.Entities.csproj.CoreCompileInputs.cache
+C:\Users\tayip\source\repos\Abc\Abc.Nortwind.Entities\obj\Debug\netcoreapp3.1\Abc.Nortwind.Entities.csproj.CopyComplete
+C:\Users\tayip\source\repos\Abc\Abc.Nortwind.Entities\obj\Debug\netcoreapp3.1\Abc.Nortwind.Entities.dll
+C:\Users\tayip\source\repos\Abc\Abc.Nortwind.Entities\obj\Debug\netcoreapp3.1\Abc.Nortwind.Entities.pdb
